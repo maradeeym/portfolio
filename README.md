@@ -1,1 +1,1 @@
-This is my portfolio where i push most of my projects
+This is my portfolio where i push most of my projects.
