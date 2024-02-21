@@ -14,7 +14,7 @@ const config: Config = {
       keyframes: {
         spotlight: {
           "0%": {
-            opacity: 0,
+            opacity: "0",
             transform: "translate(-72%, -62%) scale(0.5)",
           },
           "100%": {
