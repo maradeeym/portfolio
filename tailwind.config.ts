@@ -18,7 +18,7 @@ const config: Config = {
             transform: "translate(-72%, -62%) scale(0.5)",
           },
           "100%": {
-            opacity: 1,
+            opacity: '1',
             transform: "translate(-50%,-40%) scale(1)",
           },
         },
